@@ -1,0 +1,91 @@
+/*hola profe mucho gusto si pudo ver no pude terminar el css por problemas externos 
+bastante fuertes pero le envio lo que pude hacer para sepa que no me quede sin hacer
+nada le agradesco su tiempo */
+header{
+  margin-top: 30px;
+  border: solid 2px black;
+  border-radius: 10px;
+  box-shadow: 5px 5px black;
+  align-items: center;
+  display: flex;
+  width: 70% ;
+  box-sizing: border-box;
+}
+.imagen{
+  margin-left: 30px;
+}
+.titulos{
+text-align: center;
+margin: auto;
+font-family: Arial, Helvetica, sans-serif;
+}
+.ent.RECEPTORA{
+  margin-left: auto ;
+  margin-bottom: 6%;
+  text-size-adjust: x small;
+}
+
+.d.personales{
+  align-items: center;
+  display: flex;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  float: left;
+}
+.uno{
+border: 5px transparent;
+border-radius: 100%;
+color: white;
+background-color: black;
+width: 20px;
+text-align: center;
+}
+.espacio{
+  width: 8px;
+}
+.espacio hr{
+  height: 4px;
+  background-color: #2C37EA;
+  border: 10px blue;
+}
+.datosp{
+  text-align: center;
+  width: 13%;
+  color: white;
+  background-color: black;
+  border:1px transparent ;
+  border-radius: 3em ;
+  font-family: Arial;
+}
+section{
+  background-color: #DBF8F8;
+  border: solid 2px black;
+  box-shadow: 5px 5px black;
+  width: 70%;
+}
+.nombres-apellidos{
+  flex: auto;
+  border: 1px solid black;
+  float: left;
+  border-top: none;
+  border-left: none;
+  width: 350px;
+}
+.nombres-apellidos input{
+border: none;
+background-color: transparent;
+}
+.id{
+  border: 1px solid black;
+  border-top: none;
+  border-left: none;
+  height: 85px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.id input{
+  background-color: transparent;
+  border-right:  none;
+  border-top: none;
+  border-left: none;
+}
